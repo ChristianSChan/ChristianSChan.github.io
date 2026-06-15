@@ -19,4 +19,4 @@ Then visit `http://localhost:8000`.
 3. Set the source to the `main` branch and root directory.
 4. Save. GitHub will publish the site from `index.html`.
 
-The CV download is stored at `assets/Christian-S-Chan-CV.pdf`.
+The CV buttons link to the current CV hosted on Google Drive.
